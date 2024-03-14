@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheCrew_Content_Fixer", "TheCrew_Content_Fixer\TheCrew_Content_Fixer.vcxproj", "{EA314F7D-1EF7-4D05-969C-01FC80ADBC2B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtgFramework", "Common\AtgFramework2010.vcxproj", "{91D208A6-9936-47FD-9659-67205C3EB0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release_LTCG|Xbox 360 = Release_LTCG|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA314F7D-1EF7-4D05-969C-01FC80ADBC2B}.Release_LTCG|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{EA314F7D-1EF7-4D05-969C-01FC80ADBC2B}.Release_LTCG|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+		{91D208A6-9936-47FD-9659-67205C3EB0AB}.Release_LTCG|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{91D208A6-9936-47FD-9659-67205C3EB0AB}.Release_LTCG|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
